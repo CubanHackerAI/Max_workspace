@@ -98,11 +98,11 @@ cd /root/clawd/youtube-manager && npm run dev -- -p 3001
 ## API Keys
 
 ### Apify
-- Token: `[REDACTED - see 1Password]`
+- Token: `apify_api_rtBKpVPL6sWDFKBQd2EyH172MbXyXf4DXB07`
 - Docs: https://docs.apify.com/api/v2
 
 ### Brave Search
-- API Key: `[REDACTED - see 1Password]`
+- API Key: `BSABvSL_QHjhLcQ8KTCjP9Ed_TJNe5E`
 - Docs: https://api.search.brave.com/
 
 ---
