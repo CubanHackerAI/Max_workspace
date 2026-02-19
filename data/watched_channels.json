@@ -1,0 +1,21 @@
+{
+  "channels": [
+    {
+      "handle": "@mkbhd",
+      "name": "MKBHD",
+      "category": "tech-reviews"
+    },
+    {
+      "handle": "@lexfridman",
+      "name": "Lex Fridman", 
+      "category": "ai-podcasts"
+    },
+    {
+      "handle": "@firikiship",
+      "name": "Fireship",
+      "category": "dev-tutorials"
+    }
+  ],
+  "lastCheck": null,
+  "knownVideos": []
+}
