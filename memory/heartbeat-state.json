@@ -1,1 +1,82 @@
-{"kanban":{"lastCheck":"2026-02-19T20:06:00.000Z","knownTasks":["da9f1e3b-96c8-4440-9161-0c36fb20beaf"],"knownInstructions":[]},"youtube":{"lastCheck":"2026-02-19T20:06:00.000Z","knownVideos":["b2ea3f7c-be6a-4d21-858f-1864d9fab814","3d3c980a-5a83-4830-a3e6-961c2beca06c","584d20c4-2301-4877-a7c0-638d8823113c","f48b8a1f-936b-4dd9-8436-6d769586a2cc","754ecb46-ffe4-465e-8582-b027f6c982ba","b4e69813-3794-4fa9-9052-dc5b753f2474","674e7af1-537f-4ba1-abdd-396c6b3ec980","4383a2a0-25db-4009-b689-8d361bd89340","857c495b-1e98-454d-b51d-4a72bfbc53fa","e34a2d69-21b8-446f-85d3-adc37ef9ef38","b3b99207-7396-49f6-b530-fd3459eb1981","93eb5e68-fa18-4636-b33a-77708af3069b","3bd8ad47-621f-46b9-93f8-81b74747f593","ea1fd81a-579d-4b3d-9eba-316c4cea1817","160100a2-8c1b-4541-a8ec-466297c6c0aa","83733ed2-edfa-4fec-9957-671a496e8df0","4a7dc030-4c32-404a-95af-4594bd80f355","87b6a6c5-2403-4347-a199-12ef90008391","373b5052-0d67-41da-96da-ea0641260a29","b8103239-196b-4378-9a66-4bb609a2f980","60fa2c6f-f7c5-469b-8963-1766fddc24e8","d5d543af-149d-408d-b312-cf04c8251065","1d5a10f6-0505-44f4-90ff-de9a45457faa","729d0db1-83b9-4a4d-8e09-a16e7f849054","e4acab6e-d510-4f6c-b216-4750edd840e6","c2a1d193-7bb4-4c9f-8f87-d40a033f45ac","106cf57d-ec9f-470b-8b01-41f3a3317616"],"knownNotes":["933fa2ee-0539-4fb6-97fc-6f4a812800ba","7b664dac-7102-4e98-8602-d0b90c86188d","166e12b2-e3ff-45dc-b2ab-efbc0c9140ac","23bee94e-a2be-41d7-ae3b-a86e6775a24e","26873141-0bd8-401a-8c82-938565a0a418","051238be-893c-4ffa-bf28-206aa659ef84","96a3de24-94cb-411a-a0f0-f3d9ba9a9d52","max-done-001","max-done-002","max-done-003","ba8202d0-ac7e-4747-bf8a-061b465a5fab","3d78c949-a873-4e05-b366-e0d5853de1e0","861153b5-70ff-481b-a4e9-18c6e98ff5ed","611ef39a-ffea-4a1b-bc45-1148baef8d29","258b2064-c72b-44cb-bc04-47e6216b5d9f"],"knownSubtasks":["c068bbf1-86d6-4d5c-bfc2-7b9fd36225b0"]},"remotion":{"processedVideos":[{"videoId":"b2ea3f7c-be6a-4d21-858f-1864d9fab814","compositionName":"matthew-berman-clawdbot","sessionLabel":"remotion-matthew-berman","status":"completed"}],"pendingImprovement":[]},"transcripts":{"lastFormatted":"2026-02-17T20:30:00.000Z","formatted":["b2ea3f7c-be6a-4d21-858f-1864d9fab814","584d20c4-2301-4877-a7c0-638d8823113c","857c495b-1e98-454d-b51d-4a72bfbc53fa"]}}
+{
+  "kanban": {
+    "lastCheck": "2026-02-20T18:13:00.000Z",
+    "knownTasks": ["da9f1e3b-96c8-4440-9161-0c36fb20beaf"],
+    "knownInstructions": []
+  },
+  "youtube": {
+    "lastCheck": "2026-02-20T18:13:00.000Z",
+    "knownVideos": [
+      "github-agentic-workflows-2026-02-20",
+      "b2ea3f7c-be6a-4d21-858f-1864d9fab814",
+      "3d3c980a-5a83-4830-a3e6-961c2beca06c",
+      "584d20c4-2301-4877-a7c0-638d8823113c",
+      "f48b8a1f-936b-4dd9-8436-6d769586a2cc",
+      "754ecb46-ffe4-465e-8582-b027f6c982ba",
+      "b4e69813-3794-4fa9-9052-dc5b753f2474",
+      "674e7af1-537f-4ba1-abdd-396c6b3ec980",
+      "4383a2a0-25db-4009-b689-8d361bd89340",
+      "857c495b-1e98-454d-b51d-4a72bfbc53fa",
+      "e34a2d69-21b8-446f-85d3-adc37ef9ef38",
+      "b3b99207-7396-49f6-b530-fd3459eb1981",
+      "93eb5e68-fa18-4636-b33a-77708af3069b",
+      "3bd8ad47-621f-46b9-93f8-81b74747f593",
+      "ea1fd81a-579d-4b3d-9eba-316c4cea1817",
+      "160100a2-8c1b-4541-a8ec-466297c6c0aa",
+      "83733ed2-edfa-4fec-9957-671a496e8df0",
+      "4a7dc030-4c32-404a-95af-4594bd80f355",
+      "87b6a6c5-2403-4347-a199-12ef90008391",
+      "373b5052-0d67-41da-96da-ea0641260a29",
+      "b8103239-196b-4378-9a66-4bb609a2f980",
+      "60fa2c6f-f7c5-469b-8963-1766fddc24e8",
+      "d5d543af-149d-408d-b312-cf04c8251065",
+      "1d5a10f6-0505-44f4-90ff-de9a45457faa",
+      "729d0db1-83b9-4a4d-8e09-a16e7f849054",
+      "e4acab6e-d510-4f6c-b216-4750edd840e6",
+      "c2a1d193-7bb4-4c9f-8f87-d40a033f45ac",
+      "106cf57d-ec9f-470b-8b01-41f3a3317616"
+    ],
+    "knownNotes": [
+      "933fa2ee-0539-4fb6-97fc-6f4a812800ba",
+      "7b664dac-7102-4e98-8602-d0b90c86188d",
+      "166e12b2-e3ff-45dc-b2ab-efbc0c9140ac",
+      "23bee94e-a2be-41d7-ae3b-a86e6775a24e",
+      "26873141-0bd8-401a-8c82-938565a0a418",
+      "051238be-893c-4ffa-bf28-206aa659ef84",
+      "96a3de24-94cb-411a-a0f0-f3d9ba9a9d52",
+      "max-done-001",
+      "max-done-002",
+      "max-done-003",
+      "ba8202d0-ac7e-4747-bf8a-061b465a5fab",
+      "3d78c949-a873-4e05-b366-e0d5853de1e0",
+      "861153b5-70ff-481b-a4e9-18c6e98ff5ed",
+      "611ef39a-ffea-4a1b-bc45-1148baef8d29",
+      "258b2064-c72b-44cb-bc04-47e6216b5d9f",
+      "script-created-001",
+      "a3083820-6898-47e5-8b36-f7de53bf386c"
+    ],
+    "knownSubtasks": [
+      "c068bbf1-86d6-4d5c-bfc2-7b9fd36225b0",
+      "st-002"
+    ]
+  },
+  "remotion": {
+    "processedVideos": [
+      {
+        "videoId": "b2ea3f7c-be6a-4d21-858f-1864d9fab814",
+        "compositionName": "matthew-berman-clawdbot",
+        "sessionLabel": "remotion-matthew-berman",
+        "status": "completed"
+      }
+    ],
+    "pendingImprovement": []
+  },
+  "transcripts": {
+    "lastFormatted": "2026-02-17T20:30:00.000Z",
+    "formatted": [
+      "b2ea3f7c-be6a-4d21-858f-1864d9fab814",
+      "584d20c4-2301-4877-a7c0-638d8823113c",
+      "857c495b-1e98-454d-b51d-4a72bfbc53fa"
+    ]
+  }
+}
